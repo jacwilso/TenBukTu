@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: f0aa6503e47212346ab7d729aa094e6e
+timeCreated: 1500113059
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fail
+    21300002: Pass
+    21300004: Foul
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Fail
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 279
+        width: 572
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 161.72432, y: -89.659744}
+        - {x: 161.72432, y: -84.659744}
+        - {x: 150.72432, y: 84.340256}
+        - {x: 153.72432, y: 86.340256}
+        - {x: 160.72432, y: 94.340256}
+        - {x: 160.72432, y: 97.340256}
+        - {x: 97.72432, y: 160.34026}
+        - {x: 95.72432, y: 160.34026}
+        - {x: 5.7243195, y: 70.340256}
+        - {x: -85.27568, y: 161.34026}
+        - {x: -89.27568, y: 161.34026}
+        - {x: -100.27568, y: 150.34026}
+        - {x: -160.27568, y: 88.340256}
+        - {x: -160.27568, y: 84.340256}
+        - {x: -115.27568, y: 38.340256}
+        - {x: -70.27568, y: -6.6597443}
+        - {x: -160.27568, y: -96.659744}
+        - {x: -160.27568, y: -97.659744}
+        - {x: -97.27568, y: -160.65974}
+        - {x: -93.27568, y: -160.65974}
+        - {x: -3.2756805, y: -71.659744}
+        - {x: 85.72432, y: -160.65974}
+        - {x: 90.72432, y: -160.65974}
+    - name: Pass
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 313
+        width: 633
+        height: 523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 178.4638, y: 87.39249}
+        - {x: 118.463806, y: 147.39249}
+        - {x: 113.463806, y: 147.39249}
+        - {x: -102.536194, y: 53.392487}
+        - {x: -104.536194, y: 53.392487}
+        - {x: -115.536194, y: 44.392487}
+        - {x: -170.5362, y: -10.607513}
+        - {x: -177.5362, y: -15.607513}
+        - {x: -177.5362, y: -23.607513}
+        - {x: -165.5362, y: -39.607513}
+        - {x: -58.536194, y: -146.60751}
+        - {x: -51.536194, y: -146.60751}
+        - {x: 84.463806, y: -10.607513}
+        - {x: 158.4638, y: 64.39249}
+        - {x: 178.4638, y: 83.39249}
+    - name: Foul
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 217
+        width: 726
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110.59155, y: -169.90201}
+        - {x: 131.59155, y: -153.90201}
+        - {x: 140.59155, y: -145.90201}
+        - {x: 156.59155, y: -130.90201}
+        - {x: 178.59155, y: -98.90201}
+        - {x: 188.59155, y: -78.90201}
+        - {x: 192.59155, y: -68.90201}
+        - {x: 196.59155, y: -59.902008}
+        - {x: 203.59155, y: -33.902008}
+        - {x: 203.59155, y: 39.097992}
+        - {x: 198.59155, y: 62.097992}
+        - {x: 193.59155, y: 77.09799}
+        - {x: 175.59155, y: 113.09799}
+        - {x: 154.59155, y: 139.09799}
+        - {x: 132.59155, y: 161.09799}
+        - {x: 100.59155, y: 183.09799}
+        - {x: 80.59155, y: 191.09799}
+        - {x: 50.591553, y: 202.09799}
+        - {x: 27.591553, y: 205.09799}
+        - {x: -25.408447, y: 205.09799}
+        - {x: -48.408447, y: 201.09799}
+        - {x: -81.40845, y: 189.09799}
+        - {x: -102.40845, y: 178.09799}
+        - {x: -118.40845, y: 167.09799}
+        - {x: -144.40845, y: 144.09799}
+        - {x: -165.40845, y: 117.09799}
+        - {x: -180.40845, y: 94.09799}
+        - {x: -190.40845, y: 74.09799}
+        - {x: -199.40845, y: 43.097992}
+        - {x: -203.40845, y: 28.097992}
+        - {x: -203.40845, y: -38.902008}
+        - {x: -194.40845, y: -73.90201}
+        - {x: -185.40845, y: -91.90201}
+        - {x: -175.40845, y: -110.90201}
+        - {x: -166.40845, y: -123.90201}
+        - {x: -153.40845, y: -139.90201}
+        - {x: -132.40845, y: -159.90201}
+        - {x: -114.40845, y: -173.90201}
+        - {x: -99.40845, y: -182.90201}
+        - {x: -62.408447, y: -197.90201}
+        - {x: -50.408447, y: -199.90201}
+        - {x: -39.408447, y: -201.90201}
+        - {x: -22.408447, y: -203.90201}
+        - {x: 14.591553, y: -203.90201}
+        - {x: 28.591553, y: -202.90201}
+        - {x: 54.591553, y: -196.90201}
+        - {x: 76.59155, y: -188.90201}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

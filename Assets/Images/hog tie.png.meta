@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 49c5acd5367d15747b38b33968c370d8
+timeCreated: 1500162251
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hog tie_single
+    21300002: hog tie_1
+    21300004: hog tie_single_cut
+    21300006: hog tie_3
+    21300008: hog tie_woman
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hog tie_single
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 650
+        width: 30
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hog tie_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 659
+        width: 284
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -142, y: 92.5}
+        - {x: -142, y: -92.5}
+        - {x: 142, y: -92.5}
+        - {x: 142, y: 92.5}
+    - name: hog tie_single_cut
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 456
+        width: 30
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hog tie_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 465
+        width: 284
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -94}
+        - {x: -24, y: -93}
+        - {x: -20, y: -94}
+        - {x: -10, y: -94}
+        - {x: -10, y: -91}
+        - {x: -5, y: -94}
+        - {x: 3, y: -94}
+        - {x: 4, y: -93}
+        - {x: 9, y: -94}
+        - {x: 18, y: -94}
+        - {x: 17, y: -89}
+        - {x: 19, y: -94}
+        - {x: 104, y: -94}
+        - {x: 103, y: -92}
+        - {x: 108, y: -94}
+        - {x: 142, y: -94}
+        - {x: 142, y: 94}
+        - {x: -142, y: 94}
+        - {x: -142, y: -94}
+        - {x: -38, y: -94}
+        - {x: -38, y: -92}
+        - {x: -34, y: -94}
+    - name: hog tie_woman
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 26
+        width: 755
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 292.5, y: -151}
+        - {x: 264.5, y: -122}
+        - {x: 274.5, y: -125}
+        - {x: 362.5, y: -141}
+        - {x: 377.5, y: -146}
+        - {x: 377.5, y: 31}
+        - {x: 374.5, y: 32}
+        - {x: 352.5, y: 30}
+        - {x: 287.5, y: 24}
+        - {x: 269.5, y: 23}
+        - {x: 268.5, y: 39}
+        - {x: 278.5, y: 40}
+        - {x: 303.5, y: 39}
+        - {x: 340.5, y: 39}
+        - {x: 352.5, y: 42}
+        - {x: 364.5, y: 43}
+        - {x: 375.5, y: 40}
+        - {x: 377.5, y: 42}
+        - {x: 377.5, y: 202}
+        - {x: 365.5, y: 202}
+        - {x: 355.5, y: 200}
+        - {x: 341.5, y: 193}
+        - {x: 329.5, y: 186}
+        - {x: 297.5, y: 178}
+        - {x: 273.5, y: 174}
+        - {x: 237.5, y: 166}
+        - {x: 229.5, y: 164}
+        - {x: 201.5, y: 164}
+        - {x: 192.5, y: 160}
+        - {x: 184.5, y: 150}
+        - {x: 156.5, y: 145}
+        - {x: 104.5, y: 131}
+        - {x: 60.5, y: 114}
+        - {x: 34.5, y: 104}
+        - {x: 30.5, y: 112}
+        - {x: 10.5, y: 135}
+        - {x: 0.5, y: 141}
+        - {x: -7.5, y: 145}
+        - {x: -25.5, y: 149}
+        - {x: -32.5, y: 151}
+        - {x: -52.5, y: 162}
+        - {x: -94.5, y: 180}
+        - {x: -134.5, y: 192}
+        - {x: -165.5, y: 197}
+        - {x: -190.5, y: 197}
+        - {x: -212.5, y: 195}
+        - {x: -233.5, y: 190}
+        - {x: -268.5, y: 178}
+        - {x: -282.5, y: 172}
+        - {x: -299.5, y: 166}
+        - {x: -319.5, y: 155}
+        - {x: -338.5, y: 140}
+        - {x: -354.5, y: 124}
+        - {x: -360.5, y: 115}
+        - {x: -371.5, y: 90}
+        - {x: -373.5, y: 78}
+        - {x: -377.5, y: 56}
+        - {x: -377.5, y: -26}
+        - {x: -372.5, y: -53}
+        - {x: -366.5, y: -68}
+        - {x: -355.5, y: -91}
+        - {x: -349.5, y: -102}
+        - {x: -326.5, y: -130}
+        - {x: -309.5, y: -143}
+        - {x: -278.5, y: -160}
+        - {x: -271.5, y: -163}
+        - {x: -254.5, y: -167}
+        - {x: -237.5, y: -170}
+        - {x: -212.5, y: -172}
+        - {x: -176.5, y: -173}
+        - {x: -101.5, y: -173}
+        - {x: -95.5, y: -180}
+        - {x: -79.5, y: -187}
+        - {x: -64.5, y: -186}
+        - {x: -43.5, y: -180}
+        - {x: -34.5, y: -175}
+        - {x: 2.5, y: -178}
+        - {x: 48.5, y: -183}
+        - {x: 83.5, y: -183}
+        - {x: 98.5, y: -181}
+        - {x: 124.5, y: -177}
+        - {x: 179.5, y: -163}
+        - {x: 202.5, y: -160}
+        - {x: 226.5, y: -160}
+        - {x: 257.5, y: -167}
+        - {x: 262.5, y: -169}
+        - {x: 280.5, y: -179}
+        - {x: 294.5, y: -190}
+        - {x: 309.5, y: -202}
+        - {x: 324.5, y: -202}
+        - {x: 322.5, y: -192}
+        - {x: 317.5, y: -184}
+        - {x: 303.5, y: -162}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
